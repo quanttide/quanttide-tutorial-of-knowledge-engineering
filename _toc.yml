@@ -1,8 +1,8 @@
 format: jb-book
 root: index.md
 chapters:
-- file: introduction/README.md
+- file: 1_intro/README.md
   sections:
-  - file: introduction/antifragile.md
-  - file: introduction/evaluation.md
-  - file: introduction/products.md
+  - file: 1_intro/1.md
+  - file: 1_intro/2.md
+  - file: 1_intro/3.md
